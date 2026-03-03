@@ -5,8 +5,7 @@
 Even for this relatively small task the best approach is to develop the solution slowly.
 
 The code template suggests the steps to produce the solution.
-
-
+ 
 
 Compile your code frequently to check for syntax errors.
 
