@@ -23,7 +23,7 @@
       taxable_amount = salary_after_NI  - 12500.0;
     }
 
-    double tax_contributions = taxable_amount * tax_rate;
+    double tax_contribution = taxable_amount * tax_rate;
     double take_home = salary - ni_contribution - tax_contribution;
     // Use only these print statement with appropriate formatting and variable names
     //printf("Salary £...",var_name);
